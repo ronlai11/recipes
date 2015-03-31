@@ -3,6 +3,7 @@
 ## Ingredients
 1. Bread
 1. Eggs
+2. 1 tsp Valinna
 
 ## Instructions
 1. Whisk eggs
